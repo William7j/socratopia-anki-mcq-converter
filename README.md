@@ -6,6 +6,7 @@
 
 - 将 Socratopia 原始 `.txt` 转换为 Anki 可导入的 `.tsv`
 - 正面点击选项后即时判断正确/错误，并显示背面答案解析
+- 直接翻到背面时，题目区也会自动高亮正确选项
 - 生成适配 `Prettify Unified MCQ Stable` 的字段
 - 保留原始 `Front` 作为第 1 列，方便 Anki 匹配已有卡片并保留复习记录
 - 提供 Windows 双击启动脚本
