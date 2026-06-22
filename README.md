@@ -1,10 +1,11 @@
 # Socratopia Anki 选择题模板转换工具
 
-把 Socratopia 导出的 `.txt` 卡片文件转换成 Anki 可导入的选择题卡片。转换后的卡片支持在正面点击 A/B/C/D，并立即显示正确或错误。
+把 Socratopia 导出的 `.txt` 卡片文件转换成 Anki 可导入的选择题卡片。转换后的卡片支持在正面点击 A/B/C/D，并立即显示正确或错误，同时展开答案解析。
 
 ## 功能
 
 - 将 Socratopia 原始 `.txt` 转换为 Anki 可导入的 `.tsv`
+- 正面点击选项后即时判断正确/错误，并显示背面答案解析
 - 生成适配 `Prettify Unified MCQ Stable` 的字段
 - 保留原始 `Front` 作为第 1 列，方便 Anki 匹配已有卡片并保留复习记录
 - 提供 Windows 双击启动脚本
